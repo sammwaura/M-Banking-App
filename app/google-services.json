@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "899138305634",
+    "firebase_url": "https://mbankingapp-6787d.firebaseio.com",
+    "project_id": "mbankingapp-6787d",
+    "storage_bucket": "mbankingapp-6787d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899138305634:android:01538e6f5a35c88f",
+        "android_client_info": {
+          "package_name": "com.meshsami27.m_bankingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899138305634-rs5irc8qrnegfbn2288tq53fi0g7ldjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meshsami27.m_bankingapp",
+            "certificate_hash": "f0b7e7a0774db05e92338443f3c862bbf26aedfc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKUEYgslYBHpp6Ncy9RlTJSwBUCagI-cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899138305634-6cdvbqnmp4752emm1hhfrnuoffhsf6ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
